@@ -1,5 +1,7 @@
 # amiEviL
 
+![banner](/figures/Banner.jpg)
+
 This script is intended to check if the hash of suspicious file is in the Virus Total database.
 
 You will need an api key from Virus Total to use this script. 
@@ -25,3 +27,4 @@ Example of installing all dependencies using pip:
 ```python
 pip install -r requirements.txt
 ```
+
